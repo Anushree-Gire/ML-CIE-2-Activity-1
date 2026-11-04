@@ -53,7 +53,7 @@ with gzip.open('hotel_bookings_prepared.csv.gz', 'rb') as source:
 ```
 
 ## Project Files
-- `ML_CIE_2_Activity_1.ipynb` – Completed Jupyter Notebook
+- `Ml_activity_1 (1).ipynb` – Completed Jupyter Notebook
 - `hotel_bookings.csv` – Original dataset
 - `hotel_bookings_prepared.csv.gz` – Final prepared dataset
 
